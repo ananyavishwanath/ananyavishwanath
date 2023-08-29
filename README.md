@@ -16,6 +16,6 @@ I’m always open to new opportunities and meeting new people! Let's [connect](h
 
 ### Tech Stack
 **Languages:** Java, TypeScript, JavaScript, Dart, Golang, C++, C, Python, HTML/CSS <br>
-**Frameworks:** Node.js, React, Flutter, Express, Spring, Jest, Supertest, Mokcit <br>
+**Frameworks:** Node.js, React, Flutter, Express, Spring, Jest, Supertest, Mokcito <br>
 **Technologies:** REST, gRPC, GCP, Firebase, Firestore, AWS Lambda, Azure Functions, PostgreSQL, MongoDB <br>
 **Tools:** Git, Postman, Bash/CLI, Figma, Jira, Swagger, npm, Yarn <br>
