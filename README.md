@@ -1,7 +1,5 @@
 # Hey there! I'm Ananya 👋🏽
-[ANANYA VISHWANATH (5)](https://github.com/ananyavishwanath/ananyavishwanath/assets/83526224/bb70cb45-f1ab-4cfa-a0d6-7985354f9290)
-
-
+![ANANYA VISHWANATH (5)](https://github.com/ananyavishwanath/ananyavishwanath/assets/83526224/db0e9283-7b97-4ddb-b772-f116fbdcce0d)
 
 I’m a third year Computer Science student at the University of Waterloo and most recently worked as a Software Engineer Intern at Ripple.
 
