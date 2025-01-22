@@ -8,9 +8,6 @@ I’m a third year Computer Science student at the University of Waterloo and mo
 - CS 350: Operating Systems
 - BET 580: Consulting
 
-#### 👩🏽‍💻 I’m currently building something cool! 
-I'm building a unique approach to a social app, with a focus on building lasting friendships. Exciting updates coming soon! Stay connected for more details.
-
 #### 📱 Thing's i've built in the past: 
 I've founded my own startup and built a virtual queueing app, VQueues, that enabled businesses to create virtual queues that their customers could join. This app was used across 89 stores in the Canada and US! 
 For more details, please check out:
